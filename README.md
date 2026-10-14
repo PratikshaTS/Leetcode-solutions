@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
