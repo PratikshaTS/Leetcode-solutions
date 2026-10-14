@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0233-number-of-digit-one](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
