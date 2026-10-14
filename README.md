@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0047-permutations-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
