@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PratikshaTS/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
